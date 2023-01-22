@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Location
+comment0.text=\n\ Write\ a\ description\ of\ class\ Location\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=difficulty
+comment1.target=Location(int)
+comment1.text=\ below\ method\ is\ used\ to\ give\ location\ name\ and\ difficulty\ this\ each\ location\nis\ unique\ and\ also\ gives\ 50%\ chance\ to\ find\ item\ at\ location
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=boolean\ hasTreasure()
+comment4.params=
+comment4.target=Item\ stealTreasure()
+comment5.params=
+comment5.target=java.lang.String\ treasureString()
+numComments=6

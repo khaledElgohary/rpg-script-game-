@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GameData
+comment1.params=difficulty
+comment1.target=java.lang.String\ getMonsterNameByDifficulty(int)
+comment2.params=
+comment2.target=java.lang.String\ getRandomItemName()
+comment3.params=
+comment3.target=java.lang.String\ getRandomName()
+comment4.params=
+comment4.target=java.lang.String\ getRandomLocationName()
+comment5.params=min\ max
+comment5.target=int\ randomRoll(int,\ int)
+numComments=6

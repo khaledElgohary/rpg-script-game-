@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=GameController
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=numberOfLocations
+comment2.target=void\ initializeMap(int)
+comment3.params=
+comment3.target=int\ damageDealt()
+comment4.params=
+comment4.target=int\ damageBonus()
+comment5.params=damageAmount
+comment5.target=int\ takeDamage(int)
+comment6.params=
+comment6.target=void\ runGame()
+numComments=7
